@@ -1,0 +1,31 @@
+[
+    {
+        "id":"1",
+        "created_at":"12/09/2020",
+        "updated_at":"12/09/2020",
+        "user":"Edwin Mendez",
+        "product":"Coca-cola 1.5L"
+    },
+    {
+        "id":"2",
+        "created_at":"12/09/2020",
+        "updated_at":"12/09/2020",
+        "user":"Laura Charria",
+        "product":"Manzana Postobon 3.5L"
+    },
+    {
+        "id":"3",
+        "created_at":"12/09/2020",
+        "updated_at":"12/09/2020",
+        "user":"Alejandra Ceron",
+        "product":"Cerveza Aguila sixpac"
+    },
+    {
+        "id":"4",
+        "created_at":"12/09/2020",
+        "updated_at":"12/09/2020",
+        "user":"Mary Vanegas",
+        "product":"Cerveza Poker sixpac"
+    }
+
+]
